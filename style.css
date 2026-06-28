@@ -139,7 +139,7 @@ header.nav{
   letter-spacing:0.03em;
 }
 .brand span{font-weight:500;color:var(--pearl-dim);}
-.brand img{height:28px;width:auto;filter:drop-shadow(0 0 8px rgba(0,0,0,.4));}
+.brand img{height:28px;width:auto;filter:drop-shadow(0 0 8px rgba(0,0,0,.4));background-color: #fff; border-radius: 50%; padding: 3px;}
 .nav-links{
   display:flex;
   gap:26px;
