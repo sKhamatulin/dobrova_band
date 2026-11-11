@@ -1,6 +1,6 @@
 // DOBROVA BAND — service worker
 // Bump CACHE_NAME any time you change files, so visitors get the fresh version.
-const CACHE_NAME = 'dobrova-band-v2';
+const CACHE_NAME = 'dobrova-band-v3';
 
 const PRECACHE_URLS = [
   './',
